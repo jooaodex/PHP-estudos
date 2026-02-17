@@ -10,3 +10,8 @@
 - Usei readline para input
 - Script interativo de horas trabalhadas
 - Converti texto em número para cálculos
+
+## DIA 3 ##
+- Usei if / else para tomada de decisão
+- Trabalahei com multiplas condições (elseif)
+- Simulei regras de negócio simples
