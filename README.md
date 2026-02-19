@@ -15,3 +15,8 @@
 - Usei if / else para tomada de decisão
 - Trabalahei com multiplas condições (elseif)
 - Simulei regras de negócio simples
+
+## DIA 4 ##
+- Aprendi a usar loops for e foreach
+- Trabalhei com listas de serviços e produtos
+- Entendi como PHP renderiza conteúdo repetido
