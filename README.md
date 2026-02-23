@@ -20,3 +20,9 @@
 - Aprendi a usar loops for e foreach
 - Trabalhei com listas de serviços e produtos
 - Entendi como PHP renderiza conteúdo repetido
+
+## DIA 5 ##
+
+- Aprendi a usar arrays simples e associativos 
+- Organizei dados como serviços, produtos e horarios
+- Conectei arrays com renderização de conteúdo
