@@ -26,3 +26,8 @@
 - Aprendi a usar arrays simples e associativos 
 - Organizei dados como serviços, produtos e horarios
 - Conectei arrays com renderização de conteúdo
+
+## DIA 06 
+- Criei e usei funções
+- Separei regras de negócio em funções reutilizaveis
+- Organizei integração com API usando funções
