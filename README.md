@@ -31,3 +31,8 @@
 - Criei e usei funções
 - Separei regras de negócio em funções reutilizaveis
 - Organizei integração com API usando funções
+
+## DIA 07
+- Trabalhei com validacoes de dados
+- Separei regras de negocio de validacao
+- Estruturei um fluxo mais seguro e profissional
