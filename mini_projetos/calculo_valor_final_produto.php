@@ -19,4 +19,4 @@ function valorFinal($quantidade, $valorProduto, $TemDesconto){
 }
 
 $resultado = valorFinal($quantidade, $valorProduto, $TemDesconto);
-echo "\nValor final de comprar: R$ " . number_format($resultado, 2, ',', '.') . "\n";
+echo "\nPreço aplicado: R$ " . number_format($resultado, 2, ',', '.') . "\n";
